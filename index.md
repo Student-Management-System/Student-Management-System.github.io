@@ -64,6 +64,12 @@
 			<td>Java Application</td>
 			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_ExerciseSubmitter" alt="Build status of ExerciseSubmitter"></td>
 		</tr>
+		<tr>
+			<td><a href="https://github.com/Student-Management-System/ExerciseSubmitter">Eclipse ExerciseSubmitter</a></td>
+			<td>Java ExerciseSubmitter as Eclipse Plug-in.</td>
+			<td>Eclipse Plug-in</td>
+			<td style="text-align:center;"><img src="https://raw.githubusercontent.com/Student-Management-System/std-mgmt.io/master/figures/missing.svg" height="20" alt="Build status of Eclipse ExerciseSubmitter"></td>
+		</tr>
 	</tbody>
 </table>
 
