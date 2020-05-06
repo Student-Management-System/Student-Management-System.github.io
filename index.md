@@ -20,6 +20,12 @@
 			<td>REST Service</td>
 			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_Sparkyservice-Project" alt="Build status of Sparkyservice-Project"></td>
 		</tr>
+		<tr>
+			<td><a href="https://github.com/Student-Management-System/StudentMgmt-Backend/">Student-Management-Backend</a></td>
+			<td>Student-Management-Backend (management of courses, groups, homework, assessments)</td>
+			<td>REST Service</td>
+			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_StudentMgmt-Backend" alt="Build status of Student-Management-Backend"></td>
+		</tr>
 		
 		<tr>
 			<td colspan="4" style="text-align:center;">Java Server Tools</td>
@@ -44,7 +50,7 @@
 			<td><a href="https://github.com/Student-Management-System/Submitter-Protocol">Submitter-Protocol</a></td>
 			<td>Java network protocol for the ExerciseSubmitter and ExerciseReviewer tools.</td>
 			<td>Java Library</td>
-			<td><img src="https://raw.githubusercontent.com/Student-Management-System/std-mgmt.io/master/figures/missing.svg" height="20" alt="Build status of Submitter-Protocol"></td>
+			<td style="text-align:center;"><img src="https://raw.githubusercontent.com/Student-Management-System/std-mgmt.io/master/figures/missing.svg" height="20" alt="Build status of Submitter-Protocol"></td>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/Student-Management-System/StandaloneSubmitter/">StandaloneSubmitter</a></td>
