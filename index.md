@@ -12,7 +12,7 @@
 		</tr>
 		
 		<tr>
-			<td colspan="4" style="text-align:center;">Web Services</td>
+			<th colspan="4" style="text-align:center;">Web Services</th>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/Student-Management-System/Sparkyservice-Project/">Sparkyservice</a></td>
@@ -26,9 +26,15 @@
 			<td>REST Service</td>
 			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_StudentMgmt-Backend" alt="Build status of Student-Management-Backend"></td>
 		</tr>
+		<tr>
+			<td><a href="https://github.com/Student-Management-System/StudentMgmt-Client/">Student-Management-Client</a></td>
+			<td>Student-Management-Client (UI of the Backend)</td>
+			<td>Web server</td>
+			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_StudentMgmt-Client" alt="Build status of Student-Management-Client"></td>
+		</tr>
 		
 		<tr>
-			<td colspan="4" style="text-align:center;">Java Server Tools</td>
+			<th colspan="4" style="text-align:center;">Java Server Tools</th>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/Student-Management-System/Rights-Management">Rights-Management</a></td>
@@ -44,7 +50,7 @@
 		</tr>
 		
 		<tr>
-			<td colspan="4" style="text-align:center;">Java User Tools</td>
+			<th colspan="4" style="text-align:center;">Java User Tools</th>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/Student-Management-System/Submitter-Protocol">Submitter-Protocol</a></td>
