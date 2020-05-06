@@ -78,6 +78,3 @@
 		</tr>
 	</tbody>
 </table>
-
-### Support and Contact
-This organization is maintained by the [Software Systems Engineering group (SSE)](https://sse.uni-hildesheim.de/en/) of the institute of computer science.
