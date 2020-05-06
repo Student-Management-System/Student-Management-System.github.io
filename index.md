@@ -32,9 +32,15 @@
 		</tr>
 		<tr>
 			<td><a href="https://github.com/Student-Management-System/Submitter-Protocol">Submitter-Protocol</a></td>
-			<td>Java network protocol for the ExerciseSubmitter and ExerciseReviewer tools. </td>
+			<td>Java network protocol for the ExerciseSubmitter and ExerciseReviewer tools.</td>
 			<td>Java Library</td>
-			<td><img src="https://freesvg.org/download/8102" alt="Build status of Submitter-Protocol"></td>
+			<td><img src="https://raw.githubusercontent.com/Student-Management-System/std-mgmt.io/master/figures/missing.svg" alt="Build status of Submitter-Protocol"></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/Student-Management-System/StandaloneSubmitter/">StandaloneSubmitter</a></td>
+			<td>Standalone version of the Java ExerciseSubmitter.</td>
+			<td>Java Application</td>
+			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_ExerciseSubmitter" alt="Build status of Teaching_ExerciseSubmitter"></td>
 		</tr>
 	</tbody>
 </table>
