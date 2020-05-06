@@ -1,6 +1,3 @@
-# Student-Management-System
-This GitHub organization manages repositories that contain teaching tools used at the University of Hildesheim. 
-
 ## Overview
 ![Overview](https://raw.githubusercontent.com/Student-Management-System/std-mgmt.io/master/figures/Overview.svg)
 
