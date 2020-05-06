@@ -17,14 +17,14 @@
 			<td><a href="https://github.com/Student-Management-System/Rights-Management">Rights-Management</a></td>
 			<td>Configures the Java submission server according to the settings of the StudentMgmt-Backend</td>
 			<td>Java Application</td>
-			<td>&nbsp;</td>
+			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_Rights-Management" alt="Build status of Teaching_Rights-Management"></td>
 		</tr>
 		</tr>
 			<tr>
 			<td>Submission Hook</td>
 			<td>Tests submissions and sends intermediate assessment results to the StudentMgmt-Backend</td>
 			<td>Java Application</td>
-			<td>&nbsp;</td>
+			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_jSvnSubmitHook_2.0" alt="Build status of Teaching_jSvnSubmitHook_2.0"></td>
 		</tr>
 	</tbody>
 </table>
