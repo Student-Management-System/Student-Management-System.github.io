@@ -10,19 +10,31 @@
 			<th>Type</th>
 			<th>Status</th>
 		</tr>
+		
 		<tr>
-			<td colspan="4" style="text-align:center;">Java Submission Tools</td>
+			<td colspan="4" style="text-align:center;">Java Server Tools</td>
 		</tr>
+		<tr>
 			<td><a href="https://github.com/Student-Management-System/Rights-Management">Rights-Management</a></td>
 			<td>Configures the Java submission server according to the settings of the StudentMgmt-Backend</td>
 			<td>Java Application</td>
 			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_Rights-Management" alt="Build status of Teaching_Rights-Management"></td>
 		</tr>
-		</tr>
+		<tr>
 			<td>Submission Hook</td>
 			<td>Tests submissions and sends intermediate assessment results to the StudentMgmt-Backend</td>
 			<td>Java Application</td>
 			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_jSvnSubmitHook_2.0" alt="Build status of Teaching_jSvnSubmitHook_2.0"></td>
+		</tr>
+		
+		<tr>
+			<td colspan="4" style="text-align:center;">Java User Tools</td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/Student-Management-System/Submitter-Protocol">Submitter-Protocol</a></td>
+			<td>Java network protocol for the ExerciseSubmitter and ExerciseReviewer tools. </td>
+			<td>Java Library</td>
+			<td><img src="https://freesvg.org/download/8102" alt="Build status of Submitter-Protocol"></td>
 		</tr>
 	</tbody>
 </table>
