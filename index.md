@@ -12,7 +12,7 @@
 		</tr>
 		
 		<tr>
-			<th colspan="4" style="text-align:center;">Web Services</th>
+			<th colspan="4" style="text-align:center;background:#666666">Web Services</th>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/Student-Management-System/Sparkyservice-Project/">Sparkyservice</a></td>
@@ -34,7 +34,7 @@
 		</tr>
 		
 		<tr>
-			<th colspan="4" style="text-align:center;">Java Server Tools</th>
+			<th colspan="4" style="text-align:center;background:#666666">Java Server Tools</th>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/Student-Management-System/Rights-Management">Rights-Management</a></td>
@@ -50,7 +50,7 @@
 		</tr>
 		
 		<tr>
-			<th colspan="4" style="text-align:center;">Java User Tools</th>
+			<th colspan="4" style="text-align:center;background:#666666">Java User Tools</th>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/Student-Management-System/Submitter-Protocol">Submitter-Protocol</a></td>
@@ -69,6 +69,12 @@
 			<td>Java ExerciseSubmitter as Eclipse Plug-in.</td>
 			<td>Eclipse Plug-in</td>
 			<td style="text-align:center;"><img src="https://raw.githubusercontent.com/Student-Management-System/std-mgmt.io/master/figures/missing.svg" height="20" alt="Build status of Eclipse ExerciseSubmitter"></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/Student-Management-System/ExerciseReviewer">Eclipse ExerciseReviewer</a></td>
+			<td>Reviewer for the tutors to correct and assess homework.</td>
+			<td>Eclipse Plug-in</td>
+			<td style="text-align:center;"><img src="https://raw.githubusercontent.com/Student-Management-System/std-mgmt.io/master/figures/missing.svg" height="20" alt="Build status of Eclipse ExerciseReviewer"></td>
 		</tr>
 	</tbody>
 </table>
