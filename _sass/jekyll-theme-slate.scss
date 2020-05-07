@@ -300,6 +300,8 @@ Full-Width Styles
   font-size: 42px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
+  position: absolute;
+  top: 0px;
 }
 
 #project_tagline {
@@ -314,7 +316,7 @@ Full-Width Styles
   position: absolute;
   width: 210px;
   z-index: 10;
-  bottom: -40px;
+  bottom: 0px;
   right: 0;
   height: 70px;
   background: url('../images/icon_download.png') no-repeat 0% 90%;
@@ -348,6 +350,89 @@ Full-Width Styles
 .tar_download_link:hover {
   background: url(../images/sprite_download.png) no-repeat top right;
 }
+
+.gpl_download_link {
+  display: block;
+  float: right;
+  width: 90px;
+  height:70px;
+  text-indent: -5000px;
+  overflow: hidden;
+  background: url(../images/sprite_download2.png) no-repeat bottom right;
+}
+
+.apache_download_link {
+  display: block;
+  float: right;
+  width: 90px;
+  height:70px;
+  text-indent: -5000px;
+  overflow: hidden;
+  background: url(../images/sprite_download2.png) no-repeat bottom left;
+  margin-left: 10px;
+}
+
+.gpl_download_link:hover {
+  background: url(../images/sprite_download2.png) no-repeat top right;
+}
+
+.apache_download_link:hover {
+  background: url(../images/sprite_download2.png) no-repeat top left;
+}
+
+.site-nav {
+  position: absolute;
+  border-radius: 5px;
+  text-align: right;
+
+  .nav-trigger {
+    display: none;
+  }
+
+  label[for="header-wrap"] {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 36px;
+    z-index: 2;
+    cursor: pointer;
+  }
+  
+  a:link {
+	color: #FFF;
+	background: #5E5E62;
+	padding: 5px 5px 5px 5px;
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+  }
+  a:visited {
+    color: #FFF;
+	background: #5E5E62;
+	padding: 5px 5px 5px 5px;
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;}
+  a:hover {
+    color: #FFF;
+    background: #0090FF;
+	padding: 5px 5px 5px 5px;
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;}
+  a:active { 
+    color: #FFF;
+	background: #0090FF;
+	padding: 5px 5px 5px 5px;
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;}
+}
+
 
 #main_content_wrap {
   background: #f2f2f2;

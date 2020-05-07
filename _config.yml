@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title: Student-Management-System
-description: This GitHub organization manages repositories that contain teaching tools used at the University of Hildesheim. 
+description: This GitHub organization manages repositories that contain teaching tools used at the University of Hildesheim.
+organization_url: https://github.com/Student-Management-System/
+department_url: https://sse.uni-hildesheim.de/
+company_url: https://www.uni-hildesheim.de/
+favicon_url: https://avatars3.githubusercontent.com/u/60225075
