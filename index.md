@@ -62,7 +62,10 @@
 			<td><a href="https://github.com/Student-Management-System/StandaloneSubmitter/">StandaloneSubmitter</a></td>
 			<td>Standalone version of the Java ExerciseSubmitter.</td>
 			<td>Java Application</td>
-			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_ExerciseSubmitter" alt="Build status of ExerciseSubmitter"></td>
+			<td>
+				<img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_ExerciseSubmitter" alt="Build status of ExerciseSubmitter">
+				<img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_ExerciseSubmitter-v2" alt="Build status of ExerciseSubmitter (REST-based)">
+			</td>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/Student-Management-System/ExerciseSubmitter">Eclipse ExerciseSubmitter</a></td>
