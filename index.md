@@ -43,8 +43,14 @@
 			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_Rights-Management" alt="Build status of Rights-Management"></td>
 		</tr>
 		<tr valign="top">
-			<td>Submission Hook</td>
-			<td>Tests submissions and sends intermediate assessment results to the StudentMgmt-Backend</td>
+			<td>Submission Hook v3</td>
+			<td>Tests submissions and sends intermediate assessment results to the StudentMgmt-Backend (supports student management system)</td>
+			<td>Java Application</td>
+			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_jSvnSubmitHook_3.0" alt="Build status of jSvnSubmitHook_3.0"></td>
+		</tr>
+		<tr valign="top">
+			<td>Submission Hook v2</td>
+			<td>Tests submissions and sends intermediate assessment results to the StudentMgmt-Backend (without support for student management system)</td>
 			<td>Java Application</td>
 			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_jSvnSubmitHook_2.0" alt="Build status of jSvnSubmitHook_2.0"></td>
 		</tr>
