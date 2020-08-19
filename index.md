@@ -10,7 +10,6 @@
 			<th>Type</th>
 			<th>Status</th>
 		</tr>
-		
 		<tr>
 			<th colspan="4" style="text-align:center;background:#666666">Web Services</th>
 		</tr>
@@ -32,29 +31,21 @@
 			<td>Web server</td>
 			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_StudentMgmt-Client" alt="Build status of Student-Management-Client"></td>
 		</tr>
-		
 		<tr>
 			<th colspan="4" style="text-align:center;background:#666666">Java Server Tools</th>
 		</tr>
 		<tr valign="top">
 			<td><a href="https://github.com/Student-Management-System/Rights-Management">Rights-Management</a></td>
 			<td>Configures the Java submission server according to the settings of the StudentMgmt-Backend</td>
-			<td>Java Application</td>
+			<td>Java Application / REST Service</td>
 			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_Rights-Management" alt="Build status of Rights-Management"></td>
 		</tr>
 		<tr valign="top">
-			<td><a href="https://github.com/Student-Management-System/jSvnSubmitHook3.0">Submission Hook v3</a></td>
-			<td>Tests submissions and sends intermediate assessment results to the StudentMgmt-Backend (supports student management system)</td>
-			<td>Java Application</td>
-			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_jSvnSubmitHook_3.0" alt="Build status of jSvnSubmitHook_3.0"></td>
+			<td><a href="https://github.com/Student-Management-System/SubmissionCheck">SubmissionCheck</a></td>
+			<td>Tests submissions and sends (partial) assessment results to the StudentMgmt-Backend</td>
+			<td>Java Application / SVN Hook</td>
+			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_SubmissionCheck" alt="Build status of SubmissionCheck"></td>
 		</tr>
-		<tr valign="top">
-			<td>Submission Hook v2</td>
-			<td>Tests submissions and sends intermediate assessment results to the StudentMgmt-Backend (without support for student management system)</td>
-			<td>Java Application</td>
-			<td><img src="https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_jSvnSubmitHook_2.0" alt="Build status of jSvnSubmitHook_2.0"></td>
-		</tr>
-		
 		<tr>
 			<th colspan="4" style="text-align:center;background:#666666">Java User Tools</th>
 		</tr>
